@@ -1,0 +1,4 @@
+train: C:\Users\USER\Documents\Proyectos_personal\Computer_Vision\Cajas_Detection\Data\train\
+val: C:\Users\USER\Documents\Proyectos_personal\Computer_Vision\Cajas_Detection\Data\val\
+nc: 1
+names: ["cajas"]
